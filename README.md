@@ -5,9 +5,9 @@ It was implemented in Python and uses NumPy Library to handle Matrix math for fe
 
 ## Files in Repository
 blackJackNN.py: Main File to run, will create and train the neural networks and at
-the end call the GamePlay.py simulation to test them by playing some games.
+the end call the GamePlay.py simulation to test them by playing some games. <br />
 Simulation.py: Used to train neural network by playing simulations of draw and
-hold possibilities
+hold possibilities <br />
 GamePlay.py: Simulates blackjack games given the trained neural networks and
 calculates number of wins and losses with the trained Neural Netoworks used as
-inputs to decided when to hold/draw throughout the game.
+inputs to decided when to hold/draw throughout the game. <br />
